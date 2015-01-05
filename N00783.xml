@@ -115,8 +115,9 @@
    <text xml:lang="unk">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000942_0000_0FAD96336170B6F8"/>
-            <pb facs="tcp:000942_0001_0FAD9633CFC84C68" rendition="simple:additions"/>
+            <pb facs="unknown:000942_0000_0FAD96336170B6F8"/>
+            <pb facs="unknown:000942_0001_0FAD9633CFC84C68"
+                rendition="simple:additions"/>
             <head>
                <figure/>
 By His Excellency <hi>Richard</hi> Earl of <hi>Bellomont,</hi> Captain General and Governour in Chief of his Majeſties Province of <hi>New-York,</hi> and Territories depending thereon in <hi>America,</hi> &amp; Vice-Admiral of the ſame. A PROCLAMATION</head>
